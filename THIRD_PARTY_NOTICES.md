@@ -27,3 +27,14 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 - Related explained notebook: https://observablehq.com/@d3/bar-chart-race-explained
 
 The Race mode follows the bar chart race visualization pattern and was initially checked against the Observable D3 reference above. The SciTopus Dashboard implementation is now a standalone custom dashboard rather than a direct fork: it includes custom data loading, custom controls, multiple visualization modes, theme handling, timeline behavior, filters, image toggles, and category-specific logic.
+
+## Cyberpunk Visual Style Reference
+
+- Reference: mplcyberpunk
+- URL: https://github.com/dhaitz/mplcyberpunk
+- Author: Dominik Haitz
+- License: MIT License
+
+The dashboard's night theme and early chart styling were visually informed by the cyberpunk-style dark background, bright cyan/magenta palette, glow, and underglow approach used by `mplcyberpunk`.
+
+`mplcyberpunk` is not bundled in this repository and is not a runtime dependency of the dashboard. The attribution here is for visual inspiration and design reference, not for vendored source code.
