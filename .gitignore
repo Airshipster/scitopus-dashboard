@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+dashboard/interactive_race_data/*
+!dashboard/interactive_race_data/README.md
+!dashboard/interactive_race_data/.gitkeep
