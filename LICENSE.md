@@ -1,6 +1,6 @@
 # SciTopus Dashboard Non-Commercial License
 
-Copyright (c) 2026 SciTopus
+Copyright (c) 2026 the developer of this repository
 
 This license applies to the SciTopus Dashboard project files in this repository, except for third-party components and references listed in `THIRD_PARTY_NOTICES.md`.
 
@@ -8,10 +8,10 @@ This license applies to the SciTopus Dashboard project files in this repository,
 
 You may view, copy, share, modify, and use this project for non-commercial purposes, provided that you:
 
-- give clear attribution to SciTopus;
+- give clear attribution to the developer of this repository;
 - include a link to the original GitHub repository when reasonably possible;
 - keep this license notice and the third-party notices with any shared copy or substantial derivative work;
-- do not imply endorsement by SciTopus unless explicit written permission has been granted.
+- do not imply endorsement by the developer of this repository unless explicit written permission has been granted.
 
 Suggested attribution:
 
@@ -28,7 +28,7 @@ Commercial use includes, but is not limited to:
 - selling, sublicensing, or distributing paid access to derivative versions;
 - using the project inside a commercial analytics, media, education, or publishing product.
 
-For commercial use, contact SciTopus and obtain separate written permission before using the project.
+For commercial use, contact the developer of this repository and obtain separate written permission before using the project.
 
 ## No Production Data
 
@@ -44,4 +44,4 @@ This license does not restrict rights granted by third-party licenses for their 
 
 The project is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-SciTopus is not liable for any claim, damages, or other liability arising from use of the project.
+The developer of this repository is not liable for any claim, damages, or other liability arising from use of the project.
