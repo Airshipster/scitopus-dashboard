@@ -9,13 +9,13 @@ This license applies to the SciTopus Dashboard project files in this repository,
 You may view, copy, share, modify, and use this project for non-commercial purposes, provided that you:
 
 - give clear attribution to SciTopus;
-- include a link to the original project or dashboard when reasonably possible;
+- include a link to the original GitHub repository when reasonably possible;
 - keep this license notice and the third-party notices with any shared copy or substantial derivative work;
 - do not imply endorsement by SciTopus unless explicit written permission has been granted.
 
 Suggested attribution:
 
-> Based on SciTopus Dashboard: https://scitopus.com/youtube-dashboard#dashboard
+> Based on SciTopus Dashboard: https://github.com/Airshipster/scitopus-dashboard
 
 ## Commercial Use
 
